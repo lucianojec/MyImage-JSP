@@ -12,7 +12,6 @@
         <div class="navbar-collapse collapse">
             <div class="row" style="padding-top: 10px;">
                 <a href="#" class="btn btn-sm btn-success active navbar-right" role="button">publicar uma imagem</a>
-                <a href="InicialController?action=iniciar_criar_conta" style="margin-right: 5px;" class="btn btn-sm btn-success active navbar-right offset" role="button">criar uma conta</a>
             </div>
         </div>
     </div>
